@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my GitHub page! </br> I'm <b>Abdulelah Alrashidi</b>, a <b>Full Stack Software Engineer</b> 💻 and <b>VR Game Developer</b> 🎮 from <img src="https://cdn-icons-png.flaticon.com/512/197/197577.png" width="13"/> <b>Saudi Arabia</b>.  
+<p>Welcome to my GitHub page! </br> I'm <b>Abdulelah Alrashidi</b>, a <b>Full Stack Software Engineer</b> 💻 and <b>VR Game Developer</b> 🎮 from <img src="https://cdn-icons-png.flaticon.com/512/197/197587.png" width="13"/> <b>Saudi Arabia</b>.  
 Also, I create <b>Tech & Programming Content</b> on <img src="https://cdn-icons-png.flaticon.com/512/3046/3046120.png" width="13"/> <b>TikTok</b>.</p>
 
 ---
